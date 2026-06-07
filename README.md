@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm tinylion1024 👋
+## Hi, I'm tinylion1024 👋
 
 ### 大厂亿元级增长预算核心操盘手  
 ### 全链路增长型 AI Builder
