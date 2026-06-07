@@ -1,8 +1,8 @@
 # Hi, I'm tinylion1024 👋
 
-全链路增长型 AI Builder  
-大厂亿元级增长预算核心操盘手  
-AI × Growth × Strategy × Coding
+**全链路增长型** AI Builder  
+**大厂亿元级** 增长预算核心操盘手  
+AI × Data × Coding × Growth × Strategy × Product × Ops
 
 ---
 
@@ -13,9 +13,3 @@ AI × Growth × Strategy × Coding
 > 用 AI 提升个体杠杆，用系统化方法解决真实业务问题。
 
 ---
-
-```text
-Python / SQL / Java / Scala
-LLM / Agent / RAG / Workflow
-Growth / ROI / A/B Testing / Causal Inference
-Claude Code / Cursor / GitHub / n8n / Dify
