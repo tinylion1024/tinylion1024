@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm tinylion1024 👋
+## Hi, I'm tinylion1024 👋
 
 一个正在用 AI 重构工作流、增长方法论和个人生产力的探索者。
 
@@ -48,18 +46,3 @@ Data:        Spark / Hive / Hadoop / Pandas
 AI:          LLM / Agent / RAG / Prompt Engineering / Workflow
 ML:          XGBoost / LightGBM / Deep Learning / Uplift Modeling
 Tools:       Claude Code / Cursor / GitHub / n8n / Dify / LangChain
-
-<!--
-**tinylion1024/tinylion1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
