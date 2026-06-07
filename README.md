@@ -17,11 +17,3 @@
 **AI × Growth × Strategy × Data × Coding × Product × Operations**
 
 </div>
-
-## 🚀 Focus
-
-- 亿元级增长预算操盘
-- 用户增长与商业化转化
-- ROI 优化与实验评估
-- AI Coding 与 Agent Workflow
-- 个人生产力与自动化系统
