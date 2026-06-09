@@ -5,10 +5,16 @@
     <a href="https://github.com/tinylion1024/tinylion1024"><b>中文版</b></a> | <b>English Version</b>
   </p>
 
-  <h3>AI & Growth Dual-Expert</h3>
-  <p><b>Empowering individuals with AI, driving scale growth with systems</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B61FF&center=true&vCenter=true&width=500&lines=AI+%26+Growth+Dual-Expert;Empowering+individuals+with+AI;Driving+scale+growth+with+systems" alt="Typing SVG" />
 
-  `AI & LLM` · `Growth Strategy` · `Data Science` · `Full-stack Dev`
+  <p>
+    <img src="https://img.shields.io/badge/AI-LLM-blueviolet?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Growth-Strategy-brightgreen?style=flat-square&logo=chart.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data-Driven-blue?style=flat-square&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full--stack-Dev-orange?style=flat-square&logo=react&logoColor=white" />
+  </p>
+
+  ---
 
   <table align="center">
     <tr>
@@ -17,7 +23,7 @@
     </tr>
   </table>
 
-  <br/>
+  ---
 
   <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="your-blog"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat-square&logo=ghost&logoColor=black" /></a>

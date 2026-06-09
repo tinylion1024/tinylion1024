@@ -6,10 +6,16 @@
     <b>中文版</b> | <a href="https://github.com/tinylion1024/tinylion1024/blob/main/README_EN.md"><b>English Version</b></a>
   </p>
 
-  <h3>AI & 增长双栖专家</h3>
-  <p><b>用 AI 提升个体杠杆，用系统化方法驱动大规模业务增长</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B61FF&center=true&vCenter=true&width=500&lines=AI+%26+%E5%A2%9E%E9%95%BF%E5%8F%8C%E6%A0%96%E4%B8%93%E5%AE%B6;AI+%26+Growth+Dual-Expert;%E7%94%A8+AI+%E6%8F%90%E5%8D%87%E4%B8%AA%E4%BD%93%E6%9D%A0%E6%9D%86;%E9%A9%B1%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%B8%9A%E5%8A%A1%E5%A2%9E%E9%95%BF" alt="Typing SVG" />
 
-  `AI & LLM` · `增长策略` · `数据科学` · `全栈研发`
+  <p>
+    <img src="https://img.shields.io/badge/AI-LLM-blueviolet?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Growth-Strategy-brightgreen?style=flat-square&logo=chart.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data-Driven-blue?style=flat-square&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full--stack-Dev-orange?style=flat-square&logo=react&logoColor=white" />
+  </p>
+
+  ---
 
   <table align="center">
     <tr>
@@ -18,11 +24,11 @@
     </tr>
   </table>
 
-  <br/>
+  ---
 
   <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="your-blog"><img src="https://img.shields.io/badge/博客-FFCA28?style=flat-square&logo=ghost&logoColor=black" /></a>
-  <a href="your-wechat"><img src="https://img.shields.io/badge/微信-07C160?style=flat-square&logo=wechat&logoColor=white" /></a>
+  <a href="your-blog"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-FFCA28?style=flat-square&logo=ghost&logoColor=black" /></a>
+  <a href="your-wechat"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-07C160?style=flat-square&logo=wechat&logoColor=white" /></a>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer" width="100%"/>
 </div>
