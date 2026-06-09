@@ -27,9 +27,9 @@
 
   <p align="center">
     <a href="mailto:shaowei_job@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="your-xhs-url"><img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+    <a href="https://xhslink.com/m/4MAWe1YxIod"><img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
     <a href="your-wechat-oa-url"><img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" /></a>
-    <a href="your-blog-url"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat-square&logo=ghost&logoColor=black" /></a>
+    <a href="https://ahacoder.com"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat-square&logo=ghost&logoColor=black" /></a>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer" width="100%"/>
