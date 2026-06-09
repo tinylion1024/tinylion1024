@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=tinylion1024%20🚀&fontSize=40&animation=fadeIn" width="100%"/>
 
-  ### 全链路增长型 AI Builder | 亿元级业务操盘手
-  **用 AI 提升个体杠杆，用系统化方法驱动业务增长**
+  ### AI & 增长双栖专家 | AI & Growth Dual-Expert
+  **用 AI 提升个体杠杆，用系统化方法驱动大规模业务增长**
 
-  `AI & LLM` · `Growth Strategy` · `Data Driven` · `Full-stack Dev`
+  `AI & LLM` · `Growth Strategy` · `Data Science` · `Full-stack Dev`
 
   ---
 
