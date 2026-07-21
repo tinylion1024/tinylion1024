@@ -4,10 +4,22 @@
 
 [中文](README_CN.md) · [Blog](https://ahacoder.com) · [Email](mailto:shaowei_job@163.com)
 
+## Tech I Use
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white)
-![Growth](https://img.shields.io/badge/-Growth-0E8A16?style=flat-square&logo=googleanalytics&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+## Data & ML
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+## AI Workflow
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/-Codex%20CLI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## Start Here
 
