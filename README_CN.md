@@ -4,21 +4,15 @@
 
 [English](README.md) · [博客](https://ahacoder.com) · [邮箱](mailto:shaowei_job@163.com)
 
-## 技术栈
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**技术栈：** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 数据与机器学习
-
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**数据与机器学习：** ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-## AI 开发工作流
-
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+**AI 开发工作流：** ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex CLI](https://img.shields.io/badge/-Codex%20CLI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## 从这里开始
