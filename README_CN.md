@@ -15,10 +15,11 @@
 
 **过往经验：** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-
-**数据与机器学习：** ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
 **AI 开发工作流：** ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex CLI](https://img.shields.io/badge/-Codex%20CLI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -27,7 +28,11 @@
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Zellij](https://img.shields.io/badge/-Zellij-FF6B35?style=flat-square&logo=zellij&logoColor=white)
 
-**曾用工具：** ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+**曾用工具：** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
 ![Augment Code](https://img.shields.io/badge/-Augment%20Code-5B4BFF?style=flat-square&logoColor=white)
 
 ## 从这里开始
