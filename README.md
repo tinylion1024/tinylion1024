@@ -9,24 +9,25 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Learning:** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
-**Earlier experience:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-
 **AI Workflow:** ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex CLI](https://img.shields.io/badge/-Codex%20CLI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Warp](https://img.shields.io/badge/-Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/-Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Zellij](https://img.shields.io/badge/-Zellij-FF6B35?style=flat-square&logo=zellij&logoColor=white)
+
+**Learning:** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+**Earlier experience:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
 **Past tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
