@@ -40,6 +40,8 @@
 
 - 🚀 **[oh-my-growth](https://github.com/tinylion1024/oh-my-growth)** — Growth strategy knowledge system for AI-assisted decisions. `Python` · `Claude Code` · `Knowledge systems`
 - ✍️ **[web-novel-master](https://github.com/tinylion1024/web-novel-master)** — AI writing workflow for Chinese web fiction. `Python` · `Claude Code` · `OpenClaw`
+- 📬 **[osamail](https://github.com/tinylion1024/osamail)** — Tiny, scriptable CLI for controlling Apple Mail from the terminal. `Rust` · `macOS` · `Apple Mail automation`
+- 🧰 **[aenv](https://github.com/tinylion1024/aenv)** — Fast, project-local environment manager for Claude Code and Codex. `TypeScript` · `CLI` · `Developer tools`
 - 📈 **[a-share-methodology](https://github.com/tinylion1024/a-share-methodology)** — Structured research on Chinese equities. `Research` · `Data analysis` · `Investment`
 - 🛡️ **[oh-my-security](https://github.com/tinylion1024/oh-my-security)** — CLI-oriented security guidance for independent builders. `Python` · `Security` · `AI-assisted audits`
 
