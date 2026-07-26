@@ -1,4 +1,4 @@
-# Hi, I'm Shaowei 👋
+# Hi, I'm tinylion1024 👋
 
 **AI & growth systems builder.** I turn repeatable research, content, and growth work into practical AI workflows and tools.
 
@@ -51,7 +51,7 @@
 
 ## Writing
 
-- **[ahacoder.com](https://ahacoder.com)** — Notes on AI, growth, and building.
+- **[tinylion1024.site](https://tinylion1024.site)** — Notes on AI, growth, and building.
 
 ## Connect
 
