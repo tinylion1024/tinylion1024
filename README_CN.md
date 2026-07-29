@@ -10,10 +10,12 @@
 
 **AI 开发工作流：**
 
-<picture>
-  <source media="(max-width: 480px)" srcset="assets/badges/ai-workflow-mobile.svg">
-  <img alt="Claude Code、Codex CLI、Warp、Ghostty、tmux 和 Zellij" src="assets/badges/ai-workflow.svg">
-</picture>
+<p>
+  <picture>
+    <source media="(max-width: 480px)" srcset="assets/badges/ai-workflow-mobile.svg">
+    <img alt="Claude Code、Codex CLI、Warp、Ghostty、tmux 和 Zellij" src="assets/badges/ai-workflow.svg">
+  </picture>
+</p>
 
 **正在学习：**
 
@@ -21,17 +23,21 @@
 
 **过往经验：**
 
-<picture>
-  <source media="(max-width: 480px)" srcset="assets/badges/experience-mobile.svg">
-  <img alt="C、Java、Scala、机器学习、深度学习、Apache Spark、Hadoop 和 Apache Hive" src="assets/badges/experience.svg">
-</picture>
+<p>
+  <picture>
+    <source media="(max-width: 480px)" srcset="assets/badges/experience-mobile.svg">
+    <img alt="C、Java、Scala、机器学习、深度学习、Apache Spark、Hadoop 和 Apache Hive" src="assets/badges/experience.svg">
+  </picture>
+</p>
 
 **曾用工具：**
 
-<picture>
-  <source media="(max-width: 480px)" srcset="assets/badges/past-tools-mobile.svg">
-  <img alt="VS Code、Cursor、IntelliJ IDEA、PyCharm、iTerm2 和 Augment Code" src="assets/badges/past-tools.svg">
-</picture>
+<p>
+  <picture>
+    <source media="(max-width: 480px)" srcset="assets/badges/past-tools-mobile.svg">
+    <img alt="VS Code、Cursor、IntelliJ IDEA、PyCharm、iTerm2 和 Augment Code" src="assets/badges/past-tools.svg">
+  </picture>
+</p>
 
 ## 从这里开始
 
