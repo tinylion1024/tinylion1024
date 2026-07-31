@@ -4,12 +4,7 @@
 
 [中文](README_CN.md) · [Blog](https://ahacoder.com) · [Email](mailto:shaowei_job@163.com)
 
-<p>
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/badges/profile-en-mobile.svg">
-    <img alt="Tech I Use, AI Workflow, Learning, Earlier experience, and Past tools" src="assets/badges/profile-en.svg">
-  </picture>
-</p>
+**Core stack:** `Python` · `TypeScript` · `SQL` · `Bash` · `AI workflows` — **[Full tech stack →](TECH_STACK.md)**
 
 ## Start Here
 

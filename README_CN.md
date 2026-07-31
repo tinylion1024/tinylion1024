@@ -4,12 +4,7 @@
 
 [English](README.md) · [博客](https://ahacoder.com) · [邮箱](mailto:shaowei_job@163.com)
 
-<p>
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/badges/profile-cn-mobile.svg">
-    <img alt="技术栈、AI 开发工作流、正在学习、过往经验与曾用工具" src="assets/badges/profile-cn.svg">
-  </picture>
-</p>
+**核心技术栈：** `Python` · `TypeScript` · `SQL` · `Bash` · `AI 工作流` — **[查看完整技术栈 →](TECH_STACK_CN.md)**
 
 ## 从这里开始
 
