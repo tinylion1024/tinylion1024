@@ -4,38 +4,10 @@
 
 [中文](README_CN.md) · [Blog](https://ahacoder.com) · [Email](mailto:shaowei_job@163.com)
 
-**Tech I Use:**
-
-![Python, TypeScript, SQL, and Bash](assets/badges/tech.svg)
-
-**AI Workflow:**
-
 <p>
   <picture>
-    <source media="(max-width: 480px)" srcset="assets/badges/ai-workflow-mobile.svg">
-    <img alt="Claude Code, Codex CLI, Warp, Ghostty, tmux, and Zellij" src="assets/badges/ai-workflow.svg">
-  </picture>
-</p>
-
-**Learning:**
-
-![Go, Rust, and Swift](assets/badges/learning.svg)
-
-**Earlier experience:**
-
-<p>
-  <picture>
-    <source media="(max-width: 480px)" srcset="assets/badges/experience-mobile.svg">
-    <img alt="C, Java, Scala, Machine Learning, Deep Learning, Apache Spark, Hadoop, and Apache Hive" src="assets/badges/experience.svg">
-  </picture>
-</p>
-
-**Past tools:**
-
-<p>
-  <picture>
-    <source media="(max-width: 480px)" srcset="assets/badges/past-tools-mobile.svg">
-    <img alt="VS Code, Cursor, IntelliJ IDEA, PyCharm, iTerm2, and Augment Code" src="assets/badges/past-tools.svg">
+    <source media="(max-width: 600px)" srcset="assets/badges/profile-en-mobile.svg">
+    <img alt="Tech I Use, AI Workflow, Learning, Earlier experience, and Past tools" src="assets/badges/profile-en.svg">
   </picture>
 </p>
 

@@ -4,38 +4,10 @@
 
 [English](README.md) · [博客](https://ahacoder.com) · [邮箱](mailto:shaowei_job@163.com)
 
-**技术栈：**
-
-![Python、TypeScript、SQL 和 Bash](assets/badges/tech.svg)
-
-**AI 开发工作流：**
-
 <p>
   <picture>
-    <source media="(max-width: 480px)" srcset="assets/badges/ai-workflow-mobile.svg">
-    <img alt="Claude Code、Codex CLI、Warp、Ghostty、tmux 和 Zellij" src="assets/badges/ai-workflow.svg">
-  </picture>
-</p>
-
-**正在学习：**
-
-![Go、Rust 和 Swift](assets/badges/learning.svg)
-
-**过往经验：**
-
-<p>
-  <picture>
-    <source media="(max-width: 480px)" srcset="assets/badges/experience-mobile.svg">
-    <img alt="C、Java、Scala、机器学习、深度学习、Apache Spark、Hadoop 和 Apache Hive" src="assets/badges/experience.svg">
-  </picture>
-</p>
-
-**曾用工具：**
-
-<p>
-  <picture>
-    <source media="(max-width: 480px)" srcset="assets/badges/past-tools-mobile.svg">
-    <img alt="VS Code、Cursor、IntelliJ IDEA、PyCharm、iTerm2 和 Augment Code" src="assets/badges/past-tools.svg">
+    <source media="(max-width: 600px)" srcset="assets/badges/profile-cn-mobile.svg">
+    <img alt="技术栈、AI 开发工作流、正在学习、过往经验与曾用工具" src="assets/badges/profile-cn.svg">
   </picture>
 </p>
 

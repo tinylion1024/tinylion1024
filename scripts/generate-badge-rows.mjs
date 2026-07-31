@@ -44,6 +44,40 @@ const rows = {
 
 const gap = 6;
 const mobileMaxWidth = 300;
+const sectionGap = 20;
+const labelGap = 14;
+const labels = {
+  en: {
+    tech: "Tech I Use:",
+    "ai-workflow": "AI Workflow:",
+    learning: "Learning:",
+    experience: "Earlier experience:",
+    "past-tools": "Past tools:",
+  },
+  cn: {
+    tech: "技术栈：",
+    "ai-workflow": "AI 开发工作流：",
+    learning: "正在学习：",
+    experience: "过往经验：",
+    "past-tools": "曾用工具：",
+  },
+};
+const labelWidths = {
+  en: {
+    tech: 90,
+    "ai-workflow": 96,
+    learning: 71,
+    experience: 144,
+    "past-tools": 76,
+  },
+  cn: {
+    tech: 64,
+    "ai-workflow": 120,
+    learning: 80,
+    experience: 80,
+    "past-tools": 80,
+  },
+};
 const outputDirectory = resolve(
   dirname(fileURLToPath(import.meta.url)),
   "../assets/badges",
@@ -157,10 +191,67 @@ function wrapBadges(badges) {
   );
 }
 
+function renderProfile(language, badgeRows, mobile = false) {
+  const profileLabels = labels[language];
+  const renderedSections = Object.entries(badgeRows).map(([name, badges]) => ({
+    name,
+    label: profileLabels[name],
+    rows: mobile ? wrapBadges(badges) : [badges],
+  }));
+  const width = mobile
+    ? mobileMaxWidth
+    : Math.max(
+      ...Object.entries(badgeRows).map(
+        ([name, badges]) =>
+          labelWidths[language][name] + labelGap + rowWidth(badges),
+      ),
+    );
+  let y = 0;
+  const content = renderedSections
+    .map(({ name, label, rows: sectionRows }) => {
+      const labelY = y + 16;
+      const badgesY = mobile ? y + 26 : y;
+      const labelElement = `<text class="section-label" x="0" y="${labelY}">${label}</text>`;
+      const badgeElements = sectionRows
+        .flatMap((row, rowIndex) => {
+          let x = mobile ? 0 : labelWidths[language][name] + labelGap;
+          const rowY = badgesY + rowIndex * (20 + gap);
+          return row.map((badge) => {
+            const group = `<g transform="translate(${x} ${rowY})">${badge.body}</g>`;
+            x += badge.width + gap;
+            return group;
+          });
+        })
+        .join("");
+      const sectionHeight = mobile
+        ? 26 + sectionRows.length * 20 + (sectionRows.length - 1) * gap
+        : 20;
+
+      y += sectionHeight + sectionGap;
+      return labelElement + badgeElements;
+    })
+    .join("");
+  const height = y - sectionGap;
+  const title = language === "cn" ? "技术栈与工具" : "Technology and tools";
+
+  return [
+    '<svg xmlns="http://www.w3.org/2000/svg"',
+    ` width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"`,
+    ` role="img" aria-label="${title}">`,
+    `<title>${title}</title>`,
+    '<style>.section-label{fill:#1f2328;font:600 16px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}@media(prefers-color-scheme:dark){.section-label{fill:#f0f6fc}}</style>',
+    content,
+    "</svg>\n",
+  ].join("");
+}
+
 await mkdir(outputDirectory, { recursive: true });
+
+const fetchedRows = {};
 
 for (const [name, definitions] of Object.entries(rows)) {
   const badges = await Promise.all(definitions.map(fetchBadge));
+  fetchedRows[name] = badges;
   await writeFile(
     resolve(outputDirectory, `${name}.svg`),
     renderRows(name, [badges]),
@@ -172,4 +263,15 @@ for (const [name, definitions] of Object.entries(rows)) {
       renderRows(`${name} mobile`, wrapBadges(badges)),
     );
   }
+}
+
+for (const language of Object.keys(labels)) {
+  await writeFile(
+    resolve(outputDirectory, `profile-${language}.svg`),
+    renderProfile(language, fetchedRows),
+  );
+  await writeFile(
+    resolve(outputDirectory, `profile-${language}-mobile.svg`),
+    renderProfile(language, fetchedRows, true),
+  );
 }
