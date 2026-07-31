@@ -13,6 +13,8 @@
 
 ## 从这里开始
 
+- 🧪 **[GrowthLab](https://github.com/tinylion1024/GrowthLab)** — 本地优先的 AI 增长实验工作台，将增长问题转化为结构化、可编辑、可验证的实验方案。`TypeScript` · `React` · `Vite`
+- 📣 **[LaunchKit](https://github.com/tinylion1024/LaunchKit)** — 本地优先的轻量增长实验台，可发布落地页、收集线索并追踪真实转化漏斗。`Next.js` · `TypeScript` · `SQLite`
 - 🚀 **[oh-my-growth](https://github.com/tinylion1024/oh-my-growth)** — 面向 AI 辅助决策的增长策略知识系统。`Python` · `Claude Code` · `知识系统`
 - ✍️ **[web-novel-master](https://github.com/tinylion1024/web-novel-master)** — 中文网文 AI 创作工作流。`Python` · `Claude Code` · `OpenClaw`
 - 📬 **[osamail](https://github.com/tinylion1024/osamail)** — 可在终端中操控 Apple Mail 的轻量可脚本化命令行工具。`Rust` · `macOS` · `Apple Mail 自动化`
