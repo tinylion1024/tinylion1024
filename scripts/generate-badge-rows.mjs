@@ -45,7 +45,7 @@ const rows = {
 const gap = 6;
 const mobileMaxWidth = 300;
 const sectionGap = 20;
-const labelGap = 14;
+const labelGap = 12;
 const labels = {
   en: {
     tech: "Tech I Use:",
@@ -64,18 +64,18 @@ const labels = {
 };
 const labelWidths = {
   en: {
-    tech: 90,
-    "ai-workflow": 96,
-    learning: 71,
-    experience: 144,
-    "past-tools": 76,
+    tech: 73,
+    "ai-workflow": 78,
+    learning: 58,
+    experience: 117,
+    "past-tools": 62,
   },
   cn: {
-    tech: 64,
-    "ai-workflow": 120,
-    learning: 80,
-    experience: 80,
-    "past-tools": 80,
+    tech: 52,
+    "ai-workflow": 98,
+    learning: 65,
+    experience: 65,
+    "past-tools": 65,
   },
 };
 const outputDirectory = resolve(
@@ -209,7 +209,7 @@ function renderProfile(language, badgeRows, mobile = false) {
   let y = 0;
   const content = renderedSections
     .map(({ name, label, rows: sectionRows }) => {
-      const labelY = y + 16;
+      const labelY = y + 15;
       const badgesY = mobile ? y + 26 : y;
       const labelElement = `<text class="section-label" x="0" y="${labelY}">${label}</text>`;
       const badgeElements = sectionRows
@@ -239,7 +239,7 @@ function renderProfile(language, badgeRows, mobile = false) {
     ` width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"`,
     ` role="img" aria-label="${title}">`,
     `<title>${title}</title>`,
-    '<style>.section-label{fill:#1f2328;font:600 16px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}@media(prefers-color-scheme:dark){.section-label{fill:#f0f6fc}}</style>',
+    '<style>.section-label{fill:#1f2328;font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}@media(prefers-color-scheme:dark){.section-label{fill:#f0f6fc}}</style>',
     content,
     "</svg>\n",
   ].join("");
