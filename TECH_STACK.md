@@ -4,6 +4,17 @@
 
 > I build local-first AI products and developer tools that turn ambiguous, repetitive work into explicit systems people can inspect, edit, and reuse.
 
+## Stack map
+
+The map distinguishes the tools I use now, areas I am deepening, earlier experience, and tools I have moved on from.
+
+<p>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/badges/profile-en-mobile.svg">
+    <img alt="Tech I Use, AI Workflow, Learning, Earlier experience, and Past tools" src="assets/badges/profile-en.svg">
+  </picture>
+</p>
+
 ## Current focus
 
 | Area | Stack | What I use it for |
@@ -35,17 +46,6 @@
 - **Small tools that compose.** A focused CLI or workbench should fit naturally into an existing workflow.
 - **AI accelerates; verification decides.** Generated code is a draft until checks and real usage support it.
 - **Optimize for repeatability.** A good workflow should become easier to run, explain, and improve the second time.
-
-## Stack map
-
-The map distinguishes the tools I use now, areas I am deepening, earlier experience, and tools I have moved on from.
-
-<p>
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/badges/profile-en-mobile.svg">
-    <img alt="Tech I Use, AI Workflow, Learning, Earlier experience, and Past tools" src="assets/badges/profile-en.svg">
-  </picture>
-</p>
 
 ### Learning with a purpose
 

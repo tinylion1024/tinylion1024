@@ -4,6 +4,17 @@
 
 > 我专注于构建本地优先的 AI 产品与开发者工具，把模糊、重复的工作整理成可检查、可编辑、可复用的系统。
 
+## 技术栈全景
+
+下图区分了我正在使用的技术、持续深入的方向、过往经验，以及已经迁移离开的工具。
+
+<p>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/badges/profile-cn-mobile.svg">
+    <img alt="技术栈、AI 开发工作流、正在学习、过往经验与曾用工具" src="assets/badges/profile-cn.svg">
+  </picture>
+</p>
+
 ## 当前重点
 
 | 方向 | 技术栈 | 主要用途 |
@@ -35,17 +46,6 @@
 - **小工具也要可组合。** 专注的 CLI 或工作台应该自然融入现有流程，而不是强迫用户重建流程。
 - **AI 负责加速，验证负责定稿。** 生成代码只是草稿，检查与真实使用结果才决定它是否完成。
 - **为可重复执行而优化。** 好的工作流应该在第二次运行时更容易执行、解释和改进。
-
-## 技术栈全景
-
-下图区分了我正在使用的技术、持续深入的方向、过往经验，以及已经迁移离开的工具。
-
-<p>
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/badges/profile-cn-mobile.svg">
-    <img alt="技术栈、AI 开发工作流、正在学习、过往经验与曾用工具" src="assets/badges/profile-cn.svg">
-  </picture>
-</p>
 
 ### 带着目标学习
 
