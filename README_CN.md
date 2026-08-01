@@ -12,10 +12,14 @@
 
 - 🧪 **[GrowthLab](https://github.com/tinylion1024/GrowthLab)** — 本地优先的 AI 增长实验工作台，将增长问题转化为结构化、可编辑、可验证的实验方案。`TypeScript` · `React` · `Vite`
 - 📣 **[LaunchKit](https://github.com/tinylion1024/LaunchKit)** — 轻量增长活动搭建工具，可发布落地页、收集线索并追踪真实转化漏斗。`Next.js` · `TypeScript` · `PostgreSQL`
+- 🔁 **GrowthLoop** _（私有项目）_ — 一体化增长运营工作台，覆盖活动搭建、归因链接、转化漏斗、邀请裂变与 AI 营销素材。`Next.js` · `Supabase` · `PostgreSQL`
+- 🎯 **PrivateOps** _（私有项目）_ — AI 私域运营驾驶舱，覆盖用户分群、自动化旅程、多渠道触达、社群信号、会员运营与自动复盘。`React` · `TypeScript` · `Vite`
+- 🧬 **Brandling** _（私有项目）_ — AI 品牌灵兽生成器，将品牌资料转化为可复现的品牌画像、营销灵感、表情包与社交海报。`Next.js` · `React` · `TypeScript`
 - 🚀 **[oh-my-growth](https://github.com/tinylion1024/oh-my-growth)** — 面向 AI 辅助决策的增长策略知识系统。`Python` · `Claude Code` · `知识系统`
 
 ### AI 工作流与研究
 
+- 🎬 **[ContentFlow](https://github.com/tinylion1024/ContentFlow)** — 浏览器端 AI 内容流水线，从素材与受众洞察出发，生成母稿、多平台内容、视频分镜与发布计划。`React` · `TypeScript` · `Vite`
 - ✍️ **[web-novel-master](https://github.com/tinylion1024/web-novel-master)** — 中文网文 AI 创作工作流。`Python` · `Claude Code` · `OpenClaw`
 - 📈 **[a-share-methodology](https://github.com/tinylion1024/a-share-methodology)** — A 股结构化研究体系。`研究` · `数据分析` · `投资`
 
