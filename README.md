@@ -12,9 +12,9 @@
 
 - 🧪 **[GrowthLab](https://github.com/tinylion1024/GrowthLab)** — Local-first AI growth workspace that turns growth questions into structured, editable, and testable experiments. `TypeScript` · `React` · `Vite`
 - 📣 **[LaunchKit](https://github.com/tinylion1024/LaunchKit)** — Lightweight campaign builder for publishing landing pages, collecting leads, and tracking real conversion funnels. `Next.js` · `TypeScript` · `PostgreSQL`
-- 🔁 **GrowthLoop** _(private)_ — Growth operations workbench for campaigns, attribution links, conversion funnels, referral loops, and AI marketing assets. `Next.js` · `Supabase` · `PostgreSQL`
-- 🎯 **PrivateOps** _(private)_ — AI customer operations cockpit for audience segmentation, journeys, outreach, community signals, membership, and automated reviews. `React` · `TypeScript` · `Vite`
-- 🧬 **Brandling** _(private)_ — AI brand mascot generator that turns a brand brief into a repeatable identity profile, marketing ideas, stickers, and social posters. `Next.js` · `React` · `TypeScript`
+- 🔁 **[GrowthLoop](https://github.com/tinylion1024/GrowthLoop)** — Growth operations workbench for campaigns, attribution links, conversion funnels, referral loops, and AI marketing assets. `Next.js` · `Supabase` · `PostgreSQL`
+- 🎯 **[PrivateOps](https://github.com/tinylion1024/PrivateOps)** — AI customer operations cockpit for audience segmentation, journeys, outreach, community signals, membership, and automated reviews. `React` · `TypeScript` · `Vite`
+- 🧬 **[Brandling](https://github.com/tinylion1024/Brandling)** — AI brand mascot generator that turns a brand brief into a repeatable identity profile, marketing ideas, stickers, and social posters. `Next.js` · `React` · `TypeScript`
 - 🚀 **[oh-my-growth](https://github.com/tinylion1024/oh-my-growth)** — Growth strategy knowledge system for AI-assisted decisions. `Python` · `Claude Code` · `Knowledge systems`
 
 ### AI Workflows & Research
