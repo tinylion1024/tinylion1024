@@ -37,7 +37,7 @@
 
 ## 写作
 
-- **[ahacoder.com](https://ahacoder.com)** — 分享 AI、增长与构建过程中的思考。
+- **[tinylion1024.site](https://tinylion1024.site)** — 分享 AI、增长与构建过程中的思考。
 
 ## 联系我
 
